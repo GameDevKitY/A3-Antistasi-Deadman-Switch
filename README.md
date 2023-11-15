@@ -25,7 +25,7 @@
 </div>
 
 ## About
-A Persistent Whole Map Mission for MP co-op, focused on Resistance, Infantry and Guerrilla Tactics.
+A Persistent Whole Map Mission for MP co-op, focused on Resistance, Infantry and Guerrilla Tactics. NOW WITH DEADMAN SWITCH
 
 ## Project Status
 Master Branch: [![Build Status](https://travis-ci.com/official-antistasi-community/A3-Antistasi.svg?branch=master)](https://travis-ci.com/official-antistasi-community/A3-Antistasi)
@@ -64,7 +64,7 @@ Unstable Branch: [![Build Status](https://travis-ci.com/official-antistasi-commu
 - Antistasi now has a Setup GUI for choosing factions, parameters, selecting a game to load or creating a new one.
 - You can have multiple campaigns running in parallel
 - Fuel economy system
-
+- Dead Man Switch
 
 ## Antistasi Guide
 Check out our new [Antistasi Guide](https://antistasi.de/guide) with a ton of information.
