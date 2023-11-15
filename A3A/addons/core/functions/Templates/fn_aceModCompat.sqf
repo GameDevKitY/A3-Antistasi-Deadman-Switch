@@ -37,7 +37,8 @@ aceItems = [
 	"ACE_rope15", 
 	"ACE_rope18", 
 	"ACE_rope27", 
-	"ACE_rope36"
+	"ACE_rope36",
+	"ACE_DeadManSwitch"
 ];
 
 aceMedItems = [
